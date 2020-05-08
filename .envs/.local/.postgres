@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=casillero_sendex
+POSTGRES_USER=zubjfFAOSKzBFEvJAoyavsWaMdNEJsnG
+POSTGRES_PASSWORD=a00F9ioy57gynfydLCbs6H3PxP4JDsZDzyDI4kvr5CCjPXZEy5tnJa7zxZtApWID
